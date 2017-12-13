@@ -1,4 +1,5 @@
 images/
 upload/
-config/
+config/config-local.php
 RandnamePhpMyAdmin
+video/
